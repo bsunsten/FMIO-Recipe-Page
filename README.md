@@ -26,7 +26,7 @@ This challenge involved styling a recipe page to match a given design with a mob
 
 ### Links
 
-- Live Site URL: [https://github.com/bsunsten/FMIO-Recipe-Page](https://github.com/bsunsten/FMIO-Recipe-Page )
+- Live Site URL: [https://bsunsten.github.io/FMIO-Recipe-Page/](https://bsunsten.github.io/FMIO-Recipe-Page/)
 
 ## My process
 
